@@ -1,4 +1,4 @@
-# ipfs-image-dapp
+# IIDapp( IPFS based image search web app)
 
 ## Overview
 
